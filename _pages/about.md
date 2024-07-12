@@ -8,24 +8,24 @@ Main Research Focus:
 1. LiDAR-Inertial based SLAM：
 Utilizing Digital Elevation Model (DEM) data as prior information to construct a probabilistic 3D voxel map. Implementing real-time robot localization based on particle filter algorithm, optimizing laser odometry algorithm, integrating factor graph optimization to establish a laser SLAM framework suitable for unstructured environments, addressing the issue of trajectory drift during long-distance movements.
 
-                                                                   ![001](https://github.com/user-attachments/assets/802df324-4b55-4f17-b251-20a249f7e36b)
+![001](https://github.com/user-attachments/assets/802df324-4b55-4f17-b251-20a249f7e36b)
 
 
-                                                                   ![002](https://github.com/user-attachments/assets/315401d0-3531-4d3b-98ff-2dd78ad8a8de)
+![002](https://github.com/user-attachments/assets/315401d0-3531-4d3b-98ff-2dd78ad8a8de)
 
-                                                                    Red represents LIO-SAM, Green represents the AMCL3D, Blue represents the Groundtruth.
+Red represents LIO-SAM, Green represents the AMCL3D, Blue represents the Groundtruth.
 
 ------
 2. Obstacle Recognition, and Extraction:
 Identification and Detection of Obstacles (such as rocks, impact craters, steep slopes, etc.) in Lunar surface environment.
 
-                                                                   ![003](https://github.com/user-attachments/assets/0bfe2bbf-c120-47b6-ade0-c7fc62ec001d)
+![003](https://github.com/user-attachments/assets/0bfe2bbf-c120-47b6-ade0-c7fc62ec001d)
 
-                                                                                  Obstacle Recognition Test conducted on a field dataset.
+Obstacle Recognition Test conducted on a field dataset.
 
-                                                                   ![004](https://github.com/user-attachments/assets/984d1b0c-be7b-4293-b905-3270098cb7d5)
+![004](https://github.com/user-attachments/assets/984d1b0c-be7b-4293-b905-3270098cb7d5)
 
-                                                                                  Obstacle Recognition Test conducted in a city scenario.
+Obstacle Recognition Test conducted in a city scenario.
 
 Awards:
 ======
