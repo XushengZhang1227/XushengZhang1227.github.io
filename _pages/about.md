@@ -1,7 +1,7 @@
 
 Biography
 ======
-Xusheng Zhang is currently pursuing a Master's degree at the School of Geospatial Engineering and Science, Sun Yat-sen University. He is a member of the 3D Information Acquisition and Processing team, focusing on research areas such as LiDAR SLAM, obstacle recognition，and extraction.
+Xusheng Zhang is currently pursuing a Master's degree at the School of Geospatial Engineering and Science, Sun Yat-sen University. He is a member of the 3D Information Acquisition and Processing team, focusing on research areas such as LiDAR SLAM, obstacle recognition，and so on.
 
 Main Research Focus:
 ======
@@ -10,6 +10,7 @@ Utilizing Digital Elevation Model (DEM) data as prior information to construct a
 
 ![001](https://github.com/user-attachments/assets/802df324-4b55-4f17-b251-20a249f7e36b)
 
+Trajectory on a piror map based on DEM data.
 
 ![002](https://github.com/user-attachments/assets/315401d0-3531-4d3b-98ff-2dd78ad8a8de)
 
