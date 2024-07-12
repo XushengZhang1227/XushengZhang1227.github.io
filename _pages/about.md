@@ -8,17 +8,17 @@ Main Research Focus:
 1. LiDAR-Inertial based SLAM：
 Utilizing Digital Elevation Model (DEM) data as prior information to construct a probabilistic 3D voxel map. Implementing real-time robot localization based on particle filter algorithm, optimizing laser odometry algorithm, integrating factor graph optimization to establish a laser SLAM framework suitable for unstructured environments, addressing the issue of trajectory drift during long-distance movements.
 
-![示例图片](001.jpg)
+![image](https://github.com/user-attachments/assets/f64ccf60-b3cd-4002-9259-4de6176f8c87)
 
-![示例图片](002.jpg)
+![002](https://github.com/user-attachments/assets/0cbb15c1-f21c-45dc-b571-12a385445fc5)
 
 ------
 2. Obstacle Recognition, and Extraction:
 Identification and Detection of Obstacles (such as rocks, impact craters, steep slopes, etc.) in Lunar surface environment.
 
-![示例图片](003.jpg)
+![003](https://github.com/user-attachments/assets/f9b6b59a-a1a9-4596-a15c-424cf5ad1d74)
 
-![示例图片](004.jpg)
+![004](https://github.com/user-attachments/assets/86e39963-7684-4711-bcbd-08784c585e1f)
 
 Awards:
 ======
