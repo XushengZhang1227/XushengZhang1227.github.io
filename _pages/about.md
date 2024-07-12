@@ -19,10 +19,15 @@ Identification and Detection of Obstacles (such as rocks, impact craters, steep 
 Awards:
 ======
 2023 - 2nd-Class Scholarship
+
 2023 - Champions of Division B Football League at Zhuhai Campus, Sun Yat-sen University
+
 2023 - 7th place in "Yixian Cup" at Sun Yat-sen University
+
 2022 - 1st-Class Scholarship
+
 2020 - Academic Progress Award at Taiyuan University of Technology
+
 2021 - Academic Progress Award at Taiyuan University of Technology
 
 Paper & Conferences:
