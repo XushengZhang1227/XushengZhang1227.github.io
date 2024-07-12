@@ -8,7 +8,8 @@ Main Research Focus:
 1. LiDAR-Inertial based SLAM：
 Utilizing Digital Elevation Model (DEM) data as prior information to construct a probabilistic 3D voxel map. Implementing real-time robot localization based on particle filter algorithm, optimizing laser odometry algorithm, integrating factor graph optimization to establish a laser SLAM framework suitable for unstructured environments, addressing the issue of trajectory drift during long-distance movements.
 
-![image](https://github.com/user-attachments/assets/f64ccf60-b3cd-4002-9259-4de6176f8c87)
+![001](https://github.com/user-attachments/assets/c91efa42-6fbd-4a6d-b151-2cff89290a86)
+
 
 ![002](https://github.com/user-attachments/assets/0cbb15c1-f21c-45dc-b571-12a385445fc5)
 
