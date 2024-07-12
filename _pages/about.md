@@ -10,7 +10,8 @@ Utilizing Digital Elevation Model (DEM) data as prior information to construct a
 
 ![001](https://github.com/user-attachments/assets/9aa3936e-2a25-4b12-ab25-e218ef7fcb67)
 
-![002](https://github.com/user-attachments/assets/0cbb15c1-f21c-45dc-b571-12a385445fc5)
+![002](https://github.com/user-attachments/assets/c9074c96-52dc-48fe-b522-1f873c6bb3bd)
+Red represents LIO-SAM, Green represents 
 
 ------
 2. Obstacle Recognition, and Extraction:
