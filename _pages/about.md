@@ -8,18 +8,23 @@ Main Research Focus:
 1. LiDAR-Inertial based SLAM：
 Utilizing Digital Elevation Model (DEM) data as prior information to construct a probabilistic 3D voxel map. Implementing real-time robot localization based on particle filter algorithm, optimizing laser odometry algorithm, integrating factor graph optimization to establish a laser SLAM framework suitable for unstructured environments, addressing the issue of trajectory drift during long-distance movements.
 
-![001](https://github.com/user-attachments/assets/9aa3936e-2a25-4b12-ab25-e218ef7fcb67)
+![001](https://github.com/user-attachments/assets/4d1a9e7e-86f3-4cb8-9432-9325bf83303f)
 
-![002](https://github.com/user-attachments/assets/c9074c96-52dc-48fe-b522-1f873c6bb3bd)
-Red represents LIO-SAM, Green represents 
+![002](https://github.com/user-attachments/assets/315401d0-3531-4d3b-98ff-2dd78ad8a8de)
+
+Red represents LIO-SAM, Green represents the AMCL3D, Blue represents the Groundtruth.
 
 ------
 2. Obstacle Recognition, and Extraction:
 Identification and Detection of Obstacles (such as rocks, impact craters, steep slopes, etc.) in Lunar surface environment.
 
-![003](https://github.com/user-attachments/assets/f9b6b59a-a1a9-4596-a15c-424cf5ad1d74)
+![003](https://github.com/user-attachments/assets/0bfe2bbf-c120-47b6-ade0-c7fc62ec001d)
 
-![004](https://github.com/user-attachments/assets/86e39963-7684-4711-bcbd-08784c585e1f)
+Test conducted on a field dataset.
+
+![004](https://github.com/user-attachments/assets/984d1b0c-be7b-4293-b905-3270098cb7d5)
+
+Test conducted in a city scenario.
 
 Awards:
 ======
