@@ -36,8 +36,8 @@ Awards:
 
 Paper & Conferences:
 ======
-1.Yuan Li, Xusheng Zhang, et.al. A Multi-objective Multi-Factor Integrated Method for Comprehensive Luna Base Site Selection. (导师一作，一区在投)
+1.Yuan Li, Xusheng Zhang, et.al. A Multi-objective Multi-Factor Integrated Method for Comprehensive Luna Base Site Selection. (Under Review)
 
-2.Xusheng Zhang, Yuan Li, Wuming Zhang. LiDAR-Inertial SLAM with DEM-Driven Global Constraints for Planetary Rover Exploration. (ISPRS会议摘要，已接收)
+2.Xusheng Zhang, Yuan Li, Wuming Zhang. LiDAR-Inertial SLAM with DEM-Driven Global Constraints for Planetary Rover Exploration. (Abstract，Accepted)
 
 3.首届粤港澳大湾区测绘遥感大会—行星遥感分会场（Oral）
